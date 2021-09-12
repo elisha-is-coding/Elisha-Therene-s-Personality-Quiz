@@ -1,0 +1,43 @@
+/* STYLE SECTIONING TAGS */
+
+body {
+  font-family: 'Josefin Sans', sans-serif;
+  margin: 2em;
+  color: #0d9c90;
+}
+
+/* STYLE TEXT */
+h1 {
+  font-style: italic;
+  color: #0d9c90;
+  text-align: center;
+}
+
+h2 {
+  margin-top: 2em; 
+  color: #0d9c90;
+  text-align: center;
+}
+
+/* STYLE FLEX CONTAINER */
+.question {
+  display: flex;
+  margin-top: 2em;
+}
+  
+/* STYLE FLEX ITEM */
+.answer-choice {
+  margin: 5px;
+}
+
+/* STYLE IMAGES */
+.answer-choice img {
+  height: 10em;
+}
+
+/* STYLE BUTTON */
+button { 
+  margin-top: 5px;
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+}
